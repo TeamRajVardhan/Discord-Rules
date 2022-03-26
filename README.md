@@ -3,6 +3,8 @@
     <h1>Discord Rules - Team Raj Vardhan</h1>
 </div>
 
+[![Gaming fonts](https://see.fontimg.com/api/renderfont4/BWqOd/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmFqIFZhcmRoYW4gU2luZ2g/robus.png)](https://www.fontspace.com/category/gaming)
+
 **#1:** Be respectful to everyone.
 
 **#2:** No Politics talks or topics should be raised.
