@@ -28,6 +28,6 @@
 
 **#12:** **Follow**: - Discord [Terms of Service](https://dis.gd/tos) and [Community Guidelines](https://dis.gd/guidelines).
  
-**#13:** **Ban Appeal**: [Click here to appeal](http://bit.ly/BANappealUjjwal).
+**#13:** **Ban Appeal**: [Click here to appeal](https://forms.gle/iS2JaoQJM6DCk5bq9).
 
 > *Everything doesn't need to be mentioned in rules you need to use common sense as well. We expect all the members to be humble and respectful towards each other as well as welcoming towards the new members.*
