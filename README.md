@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://ibb.co/kcGyTVx" width="128px" style="max-width:100%; border-radius: 20px;">
+    <img src="https://i.ibb.co/Sv6xgDP/Team-Raj-Vardhan.png" width="128px" style="max-width:100%; border-radius: 20px;">
     <h1>Discord Rules - Team Raj Vardhan</h1>
 </div>
 
